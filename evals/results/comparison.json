@@ -1,0 +1,26 @@
+{
+  "mode": "rules_only",
+  "model": "None:None",
+  "trials": 0,
+  "summary": {
+    "rules_only": {
+      "runs": 10,
+      "pass_rate": "10/10",
+      "recommendation_accuracy": "10/10",
+      "avg_latency_ms": 25.0,
+      "p50_latency_ms": 27.0,
+      "max_latency_ms": 40.0,
+      "avg_llm_calls": 0.0,
+      "avg_tool_calls": 1.0,
+      "avg_input_tokens": 0.0,
+      "avg_output_tokens": 0.0,
+      "est_cost_per_request_usd": 0.0,
+      "guardrail_overrides": 0,
+      "runs_with_unsupported_figures": 0,
+      "modes": [
+        "rules_only"
+      ],
+      "failed_cases": []
+    }
+  }
+}

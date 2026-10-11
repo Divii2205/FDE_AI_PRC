@@ -1,0 +1,11 @@
+case_id,architecture,correct_next_action,grounded_evidence,policy_followed,human_escalation_correct,latency_ms,llm_calls,tool_calls,notes
+EXT-01,rules_only,True,True,True,True,39.8,0,1,
+EXT-02,rules_only,True,True,True,True,12.2,0,1,
+EXT-03,rules_only,True,True,True,True,23.4,0,1,
+EXT-04,rules_only,True,True,True,True,30.7,0,1,
+EXT-05,rules_only,True,True,True,True,13.1,0,1,
+EXT-06,rules_only,True,True,True,True,32.2,0,1,
+EXT-07,rules_only,True,True,True,True,35.0,0,1,
+EXT-08,rules_only,True,True,True,True,15.0,0,1,
+EXT-09,rules_only,True,True,True,True,32.8,0,1,
+EXT-10,rules_only,True,True,True,True,16.0,0,1,
